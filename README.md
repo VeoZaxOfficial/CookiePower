@@ -24,14 +24,6 @@ A fun plugin for PocketMine-MP (API 2.0.0) that gives players special abilities 
 ## ⚙️ Requirements
 - PocketMine-MP (0.14.x- 0.15.10)
 
-## 📁 Plugin Structure
-CookiePower/
-├── src/
-│ └── CookiePower/
-│ ├── Main.php
-│ └── CookieTask.php
-
-
 ## 👤 Author
 
 * Developed by VeoZax
