@@ -1,0 +1,6 @@
+name: CookiePower
+main: CookiePower\Main
+author: VeoZax
+version: 0.14.3_0.15.10
+api: ["VeoZaxAPI"]
+description: "Eat a cookie and get the Cookie Power!"
